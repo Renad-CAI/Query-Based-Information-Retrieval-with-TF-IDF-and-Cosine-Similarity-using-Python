@@ -34,6 +34,7 @@ This project is focused on information retrieval using Python and various librar
 
 15. **Display Relevant Documents**: Display relevant and non-relevant documents based on the cosine similarity scores. Documents with NaN scores are considered non-relevant.
 
-This project allows you to search for relevant documents in your dataset using a provided query. The documents are ranked based on their similarity to the query, providing a simple information retrieval system.
+This project allows you to search for relevant documents in your dataset using a provided query. 
+The documents are ranked based on their similarity to the query, providing a simple information retrieval system.
 
 
